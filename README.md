@@ -11,7 +11,7 @@
 # Programa de Control de Inventarios Tienda Abarrotes Lupita
 Taller de productividad basada en herramientas tecnológicas Fase IV : Resultados
 ***
-## Tabla de contenido
+## Tabla de Contenido
 #### README
 [Descripción del programa](#Descripción-del-programa)
 
@@ -30,10 +30,10 @@ Taller de productividad basada en herramientas tecnológicas Fase IV : Resultado
 [Home](https://github.com/al03019254/TPBHTecnologicas/wiki)
 ***
 <a name="Descripción-del-programa"></a>
-## Descripción del programa
+## Descripción del Programa
 Es un sistema que permite controlar el inventario de entradas y salidas de mercancia de la Tienda de Abarrotes Lupita.
 <a name="Problema-identificado"></a>
-## Problema identificado
+## Problema Identificado
 El negocio no cuenta con una administracion de inventarios adecuados, unicamente tiene la informacion de los productos en listas o notas de ventas (Salidas) y compras (Entradas), en distintos lugares como libretas, carpetas y folders de manera fisica para su consulta, en el cual no tiene ningun registro adecuado y exacto de disponibilidad y caracteristicas fisicas de estos; generando asi una perdida de activos por cuestiones administrativas y seguridad patrimonial 
 ***
 ![image](https://github.com/al03019254/TPBHTecnologicas/blob/main/img/Foto%201%20Proyecto.jpg)
@@ -59,7 +59,7 @@ Se requerira para su funcionamiento oportuno un Request que será enviado al ser
 03.	Base de datos: Utilizaremos una MySQL para ingresar la información obtenida del usuario y producto para ser almacenados. 
 04.	Interfaz: Utilizaremos una herramienta de Power Point para el diseño (situacion demasiado dificl por cuestiones de tiempo, mil disculpas profesor).
 <a name="Datos-de-la-empresa"></a>
-## Datos de la empresa
+## Datos de la Empresa
 Nombre de la empresa: Tienda de Abarrotes Lupita
 Dirección: Calle Felipe Chavez #23 Col. San Pedro Totoltepec, Toluca, Estado de Mexico, CP: 50226.
 Teléfono: 729 724 7171
