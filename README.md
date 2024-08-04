@@ -36,6 +36,8 @@ Es un sistema que permite controlar el inventario de entradas y salidas de merca
 ## Problema identificado
 El negocio no cuenta con una administracion de inventarios adecuados, unicamente tiene la informacion de los productos en listas o notas de ventas (Salidas) y compras (Entradas), en distintos lugares como libretas, carpetas y folders de manera fisica para su consulta, en el cual no tiene ningun registro adecuado y exacto de disponibilidad y caracteristicas fisicas de estos; generando asi una perdida de activos por cuestiones administrativas y seguridad patrimonial 
 ***
+![image](https://github.com/al03019254/TPBHTecnologicas/blob/main/img/Foto%201%20Proyecto.jpg)
+***
 <a name="Solución"></a>
 ## Solución 
 Posteriormente al diagnostico de las areas de oportunidad del negocio, se solicita un equipo de computo de gama media basica en la que por el momento podra realizar el uso del sistema o programa y permitirle ponerlo a prueba para considerar la viabilidad de invertir mayor recursos en hardware y mejoras al software para finiquitar este problema. Retomando el tema del programa, sera capaz de llevar un control de las entradas y salidas de la mercancia, dar de alta o baja a productos con los atributos de Numero ID, color, tamaño, cantidad y precio, a traves de aplicaciones web, base de datos SQL para el almacenamiento y control de accesos de los usuarios para controlar la seguridad de la informacion sobre quienes pueden revisar o consultar el reporte de disponibilidad de los productos. Por otra parte, permitira de manera muy sencilla el ingreso y egreso aproximado de la operacion del negocio.
