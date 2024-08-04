@@ -38,13 +38,19 @@ El negocio no cuenta con una administracion de inventarios adecuados, unicamente
 ***
 ![image](https://github.com/al03019254/TPBHTecnologicas/blob/main/img/Foto%201%20Proyecto.jpg)
 ***
+![image](https://github.com/al03019254/TPBHTecnologicas/blob/main/img/Foto%202%20en%20Descripcion%20Programa.jpg)
+***
 <a name="Solución"></a>
 ## Solución 
 Posteriormente al diagnostico de las areas de oportunidad del negocio, se solicita un equipo de computo de gama media basica en la que por el momento podra realizar el uso del sistema o programa y permitirle ponerlo a prueba para considerar la viabilidad de invertir mayor recursos en hardware y mejoras al software para finiquitar este problema. Retomando el tema del programa, sera capaz de llevar un control de las entradas y salidas de la mercancia, dar de alta o baja a productos con los atributos de Numero ID, color, tamaño, cantidad y precio, a traves de aplicaciones web, base de datos SQL para el almacenamiento y control de accesos de los usuarios para controlar la seguridad de la informacion sobre quienes pueden revisar o consultar el reporte de disponibilidad de los productos. Por otra parte, permitira de manera muy sencilla el ingreso y egreso aproximado de la operacion del negocio.
 ***
+![image](https://github.com/al03019254/TPBHTecnologicas/blob/main/img/Foto%203%20Solucion%20Programa.jpg)
+***
 <a name="Arquitectura"></a>
 ## Arquitectura
 Se requerira para su funcionamiento oportuno un Request que será enviado al servidor de aplicación mediante el uso de Apache Tomcat, donde se conectara con la base de datos MySQL para solicitar la opción, la Base de datos MySQL almacenara la información y responderle al usuario.
+***
+![image](https://github.com/al03019254/TPBHTecnologicas/blob/main/img/Foto%204%20Arquitectura%20del%20Proyecto.jpg)
 ***
 <a name="Descripción-sus-componentes"></a>
 ## Descripción sus Componentes
