@@ -15,7 +15,7 @@ import java.sql.*;
 
 /**
  *
- * @author andres.cardenas
+ * @author fernando.arias
  */
 public class altaProducto extends HttpServlet {
 

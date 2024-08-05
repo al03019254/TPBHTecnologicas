@@ -1,7 +1,7 @@
 <%-- 
     Document   : transferencias.jsp
-    Created on : Apr 4, 2017, 5:39:13 PM
-    Author     : andres.cardenas
+    Created on : Aug 2, 2024, 5:39:13 PM
+    Author     : fernando.arias
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

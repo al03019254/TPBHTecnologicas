@@ -1,7 +1,7 @@
 <%-- 
     Document   : listaclientes
-    Created on : Apr 4, 2017, 5:58:21 PM
-    Author     : andres.cardenas
+    Created on : Aug 1, 2024, 5:58:21 PM
+    Author     : fernando.arias
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -37,7 +37,7 @@ tr:nth-child(even) {
   <tr>
     <td>9874464719391</td>
     <td>Andres Cardenas Gaehd </td>
-    <td>Monterrey  N.L</td>
+    <td>Metepec EdoMex</td>
   </tr>
 </table>
 

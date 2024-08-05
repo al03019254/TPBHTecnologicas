@@ -1,7 +1,7 @@
 <%-- 
     Document   : altacuenta
-    Created on : Apr 4, 2017, 5:06:27 PM
-    Author     : andres.cardenas
+    Created on : Aug 4, 2024, 5:06:27 PM
+    Author     : fernando.arias
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

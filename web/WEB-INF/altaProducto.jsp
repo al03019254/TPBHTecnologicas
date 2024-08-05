@@ -1,7 +1,7 @@
 <%-- 
     Document   : altaProducto
-    Created on : Nov 24, 2017, 10:26:42 AM
-    Author     : andres.cardenas
+    Created on : Aug 2, 2024, 10:26:42 AM
+    Author     : fernando.arias
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -28,7 +28,7 @@
     </div>
     </div>
      <div class="form-group">
-    <label  class="col-sm-2 control-label">Proovedor</label>
+    <label  class="col-sm-2 control-label">Proveedor</label>
     <div class="col-sm-10">
       <input type="text" class="form-control"  name = "proovedor" id="proovedor" placeholder="Nombre del Proovedor" required>
     </div>

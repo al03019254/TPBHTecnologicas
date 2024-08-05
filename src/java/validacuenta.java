@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author andres.cardenas
+ * @author fernando.arias
  */
 public class validacuenta extends HttpServlet {
 

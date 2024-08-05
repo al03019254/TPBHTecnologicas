@@ -3,8 +3,10 @@
 
 </p>
 <p>
+<h3> Datos de Acceso Usuario Admin y Contraseña Admin</h3>
 <h3> Agradecimientos a mis profesores que me brindaron el conocimiento:</h3>
 <h3> Taller de Productividad basada en Herramientas Tecnológicas con el Profesor Rey Moises Vasquez Hernandez.</h3>
+<h3> Tambien agradezco el apoyo de mi compañero laboral y amigo: Andres Cardenas Gaehd quien me apoyo en asesoria y uso de su equipo de computo; sin su ayuda hubiera sido mas dificil de lograr el objetivo. Mil gracias Andy.</h3>
 </p>
 </p>
 
@@ -48,6 +50,7 @@ Posteriormente al diagnostico de las areas de oportunidad del negocio, se solici
 ***
 <a name="Requerimientos (Arquitectura)"></a>
 ## Arquitectura
+Datos de Acceso Usuario Admin y Contraseña Admin
 Servidores de aplicación: Tomcat 8
 Bases de datos: Mysql
 Paquetes adicionales: JDBC Mysql 5 Connector

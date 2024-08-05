@@ -1,7 +1,7 @@
 <%-- 
     Document   : home
-    Created on : Mar 28, 2017, 4:47:03 PM
-    Author     : andres.cardenas
+    Created on : Aug 2, 2024, 4:47:03 PM
+    Author     : fernando.arias
 --%>
 
 <%@page import="java.sql.ResultSet"%>
@@ -52,7 +52,7 @@ li a:hover {
 
 </ul>
     
-    <h1>Bienvendio a Abarrotes Cardenas</h1>
+    <h1>Bienvenidos a Abarrotes Lupita</h1>
     <%ArrayList productNames = new ArrayList(); 
       ArrayList productPrices = new ArrayList();
       ArrayList productProvider = new ArrayList();

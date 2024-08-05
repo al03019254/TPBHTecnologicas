@@ -1,7 +1,7 @@
 <%-- 
     Document   : detalle.jsp
-    Created on : Apr 4, 2017, 5:28:20 PM
-    Author     : andres.cardenas
+    Created on : Aug 4, 2024, 5:28:20 PM
+    Author     : fernando.arias
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -21,17 +21,17 @@
             Apellidos: <br>
             <input type="text" name="numCuenta" placeholder="Cardenas Gaehd"> <br> <br>
             Direccion:<br>
-            <input type="text" name="tipoCuenta" placeholder="Voyager 428 Bosques de las Cumbres Monterrey N.L"> <br> <br>
+            <input type="text" name="tipoCuenta" placeholder="Leona Vicario #340 Citlalli II Metepec EdoMex"> <br> <br>
             CP: <br>
-            <input type="number" name="monto" placeholder="64635"> <br> <br>
+            <input type="number" name="monto" placeholder="24117"> <br> <br>
             Ciudad <br>
-            <input type="text" name="fecha" placeholder="Monterrey"> <br> <br>
+            <input type="text" name="fecha" placeholder="Metepec"> <br> <br>
             Estado <br>
-            <input type="text" name="fecha" placeholder="Nuevo Leon"> <br> <br>
+            <input type="text" name="fecha" placeholder="EdoMex"> <br> <br>
              Pais <br>
             <input type="text" name="fecha" placeholder="Mexico"> <br> <br>
              Telefono <br>
-             <input type="number" name="fecha" placeholder="8121628579"> <br> <br>
+             <input type="number" name="fecha" placeholder="7299782011"> <br> <br>
              Email <br>
              <input type="text" name="fecha" placeholder="andres.cgaehd@gmail.com"> <br> <br>
              Fecha de Nacimiento <br>

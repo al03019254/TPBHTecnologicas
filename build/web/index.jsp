@@ -1,7 +1,7 @@
 <%-- 
     Document   : login
-    Created on : Mar 28, 2017, 3:48:34 PM
-    Author     : andres.cardenas
+    Created on : Aug 1, 2024, 3:48:34 PM
+    Author     : fernando.arias
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -19,7 +19,7 @@
 
 <body>
     <br>
-      <h1 style="color:#fff;text-align:center">Abarrotes Cardenas</h1>
+      <h1 style="color:#fff;text-align:center">Abarrotes Lupita</h1>
     <div id="login">
       <form method = "POST" action ="validacuenta">
         <span class="fontawesome-user"></span>

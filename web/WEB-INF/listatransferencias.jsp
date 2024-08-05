@@ -1,7 +1,7 @@
 <%-- 
     Document   : listatransferencias
-    Created on : Apr 4, 2017, 6:06:20 PM
-    Author     : andres.cardenas
+    Created on : Aug 2, 2024, 6:06:20 PM
+    Author     : fernando.arias
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -36,10 +36,10 @@ tr:nth-child(even) {
     <th>Monto</th>
   </tr>
   <tr>
-    <td>23/02/17</td>
+    <td>23/07/24</td>
     <td>9874464719391</td>
     <td>8864465715114</td>
-    <td>$10,000</td>
+    <td>$17,000</td>
   </tr>
 </table>
 
