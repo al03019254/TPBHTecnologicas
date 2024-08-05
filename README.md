@@ -46,11 +46,24 @@ Posteriormente al diagnostico de las areas de oportunidad del negocio, se solici
 ***
 ![image](https://github.com/al03019254/TPBHTecnologicas/blob/main/img/Foto%203%20Solucion%20Programa.jpg)
 ***
-<a name="Arquitectura"></a>
+<a name="Requerimientos (Arquitectura)"></a>
 ## Arquitectura
-Se requerira para su funcionamiento oportuno un Request que será enviado al servidor de aplicación mediante el uso de Apache Tomcat, donde se conectara con la base de datos MySQL para solicitar la opción, la Base de datos MySQL almacenara la información y responderle al usuario.
+Servidores de aplicación: Tomcat 8
+Bases de datos: Mysql
+Paquetes adicionales: JDBC Mysql 5 Connector
+Versión de Java: 1.8 
+Descripcion: Se requerira para su funcionamiento oportuno un Request que será enviado al servidor de aplicación mediante el uso de Apache Tomcat, donde se conectara con la base de datos MySQL para solicitar la opción, la Base de datos MySQL almacenara la información y responderle al usuario.
 ***
 ![image](https://github.com/al03019254/TPBHTecnologicas/blob/main/img/Foto%204%20Arquitectura%20del%20Proyecto.jpg)
+***
+<a name="Instalacion"></a>
+## ¿Cómo instalar el ambiente de desarrollo?
+Se debe agregar el proyecto (WAR) en el App Manager de tomcat y desplegarlo y crear la base de datos con los archivos sql.
+
+¿Cómo implementar la solución en producción en un ambiente local o en la nube como Heroku?
+
+Con el cliente de Heroku  Puedes agregar el archivo WAR con el Siguiente comando: 
+$ heroku war:deploy <path_to_war_file> --app <app_name>
 ***
 <a name="Descripción-sus-componentes"></a>
 ## Descripción sus Componentes
