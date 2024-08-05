@@ -76,7 +76,7 @@ public class validacuenta extends HttpServlet {
             String password = request.getParameter("password");
             RequestDispatcher rd;
             
-            if(username.equals("andres")&& password.equals("andres")){
+            if(username.equals("admin")&& password.equals("admin")){
                 rd = request.getRequestDispatcher("WEB-INF/home.jsp");  
                 rd.forward(request, response);
             }
